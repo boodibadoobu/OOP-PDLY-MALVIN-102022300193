@@ -89,4 +89,3 @@ public class Pembelian {
     }
 }
 
-// Sunyi dan sepi diruang hampa, masalah datang dan pergi sudah biasa
